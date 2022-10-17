@@ -1,0 +1,15 @@
+C:\Users\nikit\OneDrive\Рабочий стол\HWC#1\EX8\bin\Debug\net6.0\EX8.exe
+C:\Users\nikit\OneDrive\Рабочий стол\HWC#1\EX8\bin\Debug\net6.0\EX8.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\HWC#1\EX8\bin\Debug\net6.0\EX8.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\HWC#1\EX8\bin\Debug\net6.0\EX8.dll
+C:\Users\nikit\OneDrive\Рабочий стол\HWC#1\EX8\bin\Debug\net6.0\EX8.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\HWC#1\EX8\obj\Debug\net6.0\EX8.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\HWC#1\EX8\obj\Debug\net6.0\EX8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\HWC#1\EX8\obj\Debug\net6.0\EX8.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\HWC#1\EX8\obj\Debug\net6.0\EX8.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\HWC#1\EX8\obj\Debug\net6.0\EX8.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\HWC#1\EX8\obj\Debug\net6.0\EX8.dll
+C:\Users\nikit\OneDrive\Рабочий стол\HWC#1\EX8\obj\Debug\net6.0\refint\EX8.dll
+C:\Users\nikit\OneDrive\Рабочий стол\HWC#1\EX8\obj\Debug\net6.0\EX8.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\HWC#1\EX8\obj\Debug\net6.0\EX8.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\HWC#1\EX8\obj\Debug\net6.0\ref\EX8.dll
